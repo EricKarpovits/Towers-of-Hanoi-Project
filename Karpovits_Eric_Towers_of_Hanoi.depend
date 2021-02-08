@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1604433884 source:c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\main.cpp
+	"declarations.h"
+
+1604431228 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\declarations.h
+	<iostream>
+	<windows.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"string.h"
+	"apvector.h"
+	"stack.h"
+	"allegro.h"
+	"consoleColor.h"
+	"gameManagement.h"
+
+1604436867 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\stack.h
+
+1603120056 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\consolecolor.h
+
+1604377712 source:c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\stack.cpp
+	"declarations.h"
+
+1604431170 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\allegro.h
+
+1604436867 source:c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\allegro.cpp
+	"declarations.h"
+
+1604431313 source:c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\allegrosetup.cpp
+	"declarations.h"
+
+1603578642 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\hanoi.h
+
+1603573882 source:c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\hanoi.cpp
+
+1603578642 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\stack.cpp
+
+1603578642 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\allegro.cpp
+
+1604430138 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\apvector.h
+	"apvector.cpp"
+
+1604430136 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1600700842 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\apmatrix.h
+	"apvector.h"
+	"apmatrix.cpp"
+
+1600700848 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\apmatrix.cpp
+
+1604430685 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\apstring.h
+	<iostream>
+
+1604430661 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\apstring.cpp
+	<string.h>
+	<assert.h>
+	<stdlib.h>
+	<ctype.h>
+
+1604430685 source:c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\apstring.cpp
+	<string.h>
+	<assert.h>
+	<stdlib.h>
+	<ctype.h>
+	"apstring.h"
+
+1604167946 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\menu.h
+
+1604167754 source:c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\menu.cpp
+	"declarations.h"
+
+1604283592 source:c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\playgame.cpp
+	"declarations.h"
+
+1604350172 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\game.h
+
+1604350012 source:c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\game.cpp
+	"declarations.h"
+
+1604429676 c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\gamemanagement.h
+
+1604429686 source:c:\users\eric\documents\github\towers-of-hanoi---recursive-algorithms-erickarpovits\karpovits_eric_towers_of_hanoi\gamemanagement.cpp
+	"declarations.h"
+
