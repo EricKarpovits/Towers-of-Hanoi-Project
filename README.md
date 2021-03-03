@@ -1,4 +1,4 @@
-# Towers of Hanoi - Eric Karpovits
+# Towers of Hanoi - [Eric Karpovits](https://github.com/EricKarpovits)
 
 <p align="center">
   <a href="https://github.com/EricKarpovits/">
