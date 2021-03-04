@@ -9,11 +9,11 @@
 
 The Towers of Hanoi is a game in which a stack of disks is moved from the first peg to a third peg with the help of an intermediate post.  Only one disk may be moved at one time and larger disks may never be on top of smaller disks.
 
-The game was inspired by [`Math is Fun`](http://www.mathsisfun.com/games/towerofhanoi.html)
+3Blue1Brown Towers of Hanoi Explanation: https://www.youtube.com/watch?v=2SUvWfNJSsM
 
 This project represents the culmination of the Algorithms/Recursion unit. 
 
-3Blue1Brown Towers of Hanoi Explanation: https://www.youtube.com/watch?v=2SUvWfNJSsM
+The game was inspired by [`Math is Fun`](http://www.mathsisfun.com/games/towerofhanoi.html)
 
 Levels of Achievement:
 -----
