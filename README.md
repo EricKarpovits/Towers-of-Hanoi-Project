@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/version-1.2.2-brightgreen?style=flat-square&color=2bbc8a"> <img src="https://img.shields.io/badge/build-passed-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/made%20with-C++-1f425f.svg?style=flat-square&logo=c%2B%2B">
 </p>
 
+The Towers of Hanoi is a game in which a stack of disks is moved from the first peg to a third peg with the help of an intermediate post.  Only one disk may be moved at one time and larger disks may never be on top of smaller disks.
+
+The game was inspired by [`Math is Fun`](http://www.mathsisfun.com/games/towerofhanoi.html)
+
 This project represents the culmination of the Algorithms/Recursion unit. 
 
 3Blue1Brown Towers of Hanoi Explanation: https://www.youtube.com/watch?v=2SUvWfNJSsM
