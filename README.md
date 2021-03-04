@@ -15,14 +15,10 @@ This project represents the culmination of the Algorithms/Recursion unit.
 
 3Blue1Brown Towers of Hanoi Explanation: https://www.youtube.com/watch?v=2SUvWfNJSsM
 
---- 
-
 Levels of Achievement:
-------
-
-
-  * C: Use console to create an animation of recursive solution.  
+-----
+  * C  : Use console to create an animation of recursive solution.  
   * A-: Use Allegro to create an animation of the recursive solution. Hard coding number of discs is OK.
-  * A: Use Allegro to create a clickable walk through of the recursive solution. User should be able to change number of discs (typical range is 5 - 7).
+  * A  : Use Allegro to create a clickable walk through of the recursive solution. User should be able to change number of discs (typical range is 5 - 7).
   * A+: Make the game also playable by the user. 
-    * **`All Achieved`**
+**`All Achieved`**
