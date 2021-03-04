@@ -17,4 +17,4 @@ Levels of Achievement:
   * 4-: Use Allegro to create an animation of the recursive solution. Hard coding number of discs is OK.
   * 4: Use Allegro to create a clickable walk through of the recursive solution. User should be able to change number of discs (typical range is 5 - 7).
   * 4+: Make the game also playable by the user. 
-    * `All Achieved`
+    * **`All Achieved`**
