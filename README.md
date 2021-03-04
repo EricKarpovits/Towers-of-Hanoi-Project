@@ -9,7 +9,7 @@
 
 The Towers of Hanoi is a game in which a stack of disks is moved from the first peg to a third peg with the help of an intermediate post.  Only one disk may be moved at one time and larger disks may never be on top of smaller disks.
 
-3Blue1Brown Towers of Hanoi Explanation: https://www.youtube.com/watch?v=2SUvWfNJSsM
+3Blue1Brown Towers of Hanoi Video Explanation: [link](https://www.youtube.com/watch?v=2SUvWfNJSsM)
 
 This project represents the culmination of the Algorithms/Recursion unit. 
 
